@@ -32,6 +32,9 @@ Software Engineer with more than 19 years of commercial experience. I have knowl
 *   PostgreSQL, Mnesia, SQLite, MySQL
 *   GitHub/GitLab
 
+## Certificates
+*   [Go (Golang) - первое знакомство](https://stepik.org/cert/1502673)
+
 ### My opensource projects
 
 *   [wheretz](https://github.com/UA3MQJ/wheretz) timezone lookup
