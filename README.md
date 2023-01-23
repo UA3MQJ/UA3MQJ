@@ -1,6 +1,6 @@
 ### Hi, i'm Alex 👋
 
-Software Engineer with more than 19 years of commercial experience. I have knowledge in backend development on <img src="https://elixir-lang.org/favicon.ico" width="16"> [Elixir](https://elixir-lang.org).
+Software Engineer with more than 20 years of commercial experience. I have knowledge in backend development on <img src="https://elixir-lang.org/favicon.ico" width="16"> [Elixir](https://elixir-lang.org).
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=ua3mqj&show_icons=true&count_private=true"><img
