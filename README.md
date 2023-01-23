@@ -20,7 +20,7 @@ Software Engineer with more than 20 years of commercial experience. I have knowl
    📫 How to reach me: <a href='mailto:ua3mqj@gmail.com'>ua3mqj@gmail.com</a>
 </p>
 
-### Key points
+### 💬 Key points
 *   Backend engineer. Design of distributed high-load systems
 *   Write posts about software and hardware development on [Habr](https://habr.com/ru/users/UA3MQJ/posts/).
 *   I write reviews about electronic equipment on [Mysku](https://mysku.club/my/UA3MQJ).
@@ -32,7 +32,7 @@ Software Engineer with more than 20 years of commercial experience. I have knowl
 *   PostgreSQL, Mnesia, SQLite, MySQL
 *   GitHub/GitLab
 
-## Certificates
+## ☑ Certificates
 *   [Go (Golang) - первое знакомство](https://stepik.org/cert/1502673)
 
 ### My opensource projects
