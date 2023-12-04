@@ -24,7 +24,7 @@ Software Engineer with more than 20 years of commercial experience. I have knowl
 *   Backend engineer. Design of distributed high-load systems
 *   Write posts about software and hardware development on [Habr](https://habr.com/ru/users/UA3MQJ/posts/).
 *   I write reviews about electronic equipment on [Mysku](https://mysku.club/my/UA3MQJ).
-*   Currently working in [Greenatom](https://www.linkedin.com/company/greenatom/about/)
+*   Currently working in [ЗооОптТорг.РФ](https://zoopt.ru/)
 
 ## 🛠 Technical Stack
 *   Elixir(Erlang)
